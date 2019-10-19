@@ -1,0 +1,52 @@
+body {
+    background-image: url(pic7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: red !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000 !important;
+}
+
+/* Navbar */
+.brand1{
+    color: red;
+}
+
+/* Header */
+.jumbotron {
+    background: rgba(141, 136, 136, .9);
+}
+/* Gallery */
+#gallery {
+    background: rgba(141, 136, 136, .9);
+}
+
+
+ .carousel-item img {
+    padding: 10px;
+    width:300px;
+    height:500px;
+} 
+
+/* Tour Dates */
+
+
+#tour {
+    background: rgba(141, 136, 136, .9);
+    padding: 10px;
+}
